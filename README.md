@@ -1,2 +1,2 @@
- # DesignPatterns
-Design patterns demos
+  # Design Patterns
+Code samples for design patterns using C#
