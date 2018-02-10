@@ -17,6 +17,8 @@ namespace designPatterns
             Console.WriteLine("========================");
             
 
+
+
             //get shape factory
             AbstractFactory shapeFactory = FactoryProducer.GetFactory("SHAPE");
 
