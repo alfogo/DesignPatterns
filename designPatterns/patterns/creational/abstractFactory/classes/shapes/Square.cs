@@ -1,7 +1,7 @@
-﻿using designPatterns.classes.interfaces;
+﻿using System;
+using designPatterns.patterns.creational.abstractFactory.classes.interfaces;
 
-using System;
-namespace designPatterns.classes.shapes
+namespace designPatterns.patterns.creational.abstractFactory.classes.shapes
 {
     public class Square : IShape
     {

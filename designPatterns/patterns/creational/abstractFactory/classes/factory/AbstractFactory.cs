@@ -1,6 +1,6 @@
-﻿using designPatterns.classes.interfaces;
+﻿using designPatterns.patterns.creational.abstractFactory.classes.interfaces;
 
-namespace designPatterns.classes.factory
+namespace designPatterns.patterns.creational.abstractFactory.classes.factory
 {
     public abstract class AbstractFactory
     {

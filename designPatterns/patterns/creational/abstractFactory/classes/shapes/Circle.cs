@@ -1,7 +1,7 @@
 ﻿using System;
-using designPatterns.classes.interfaces;
+using designPatterns.patterns.creational.abstractFactory.classes.interfaces;
 
-namespace designPatterns.classes.shapes
+namespace designPatterns.patterns.creational.abstractFactory.classes.shapes
 {
     public class Circle : IShape
     {

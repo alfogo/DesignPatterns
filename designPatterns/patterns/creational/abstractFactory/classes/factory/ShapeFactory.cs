@@ -1,7 +1,8 @@
-﻿using designPatterns.classes.shapes;
-using designPatterns.classes.interfaces;
+﻿using designPatterns.patterns.creational.abstractFactory.classes.shapes;
+using designPatterns.patterns.creational.abstractFactory.classes.interfaces;
+using designPatterns.patterns.creational.abstractFactory.classes.colors;
 
-namespace designPatterns.classes.factory
+namespace designPatterns.patterns.creational.abstractFactory.classes.factory
 {
     public class ShapeFactory : AbstractFactory
     {

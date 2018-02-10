@@ -1,4 +1,4 @@
-﻿namespace designPatterns.classes.factory
+﻿namespace designPatterns.patterns.creational.abstractFactory.classes.factory
 {
     public class FactoryProducer
     {

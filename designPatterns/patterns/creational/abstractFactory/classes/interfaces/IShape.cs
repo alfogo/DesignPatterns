@@ -1,4 +1,4 @@
-﻿namespace designPatterns.classes.interfaces
+﻿namespace designPatterns.patterns.creational.abstractFactory.classes.interfaces
 {
     public interface IShape
     {

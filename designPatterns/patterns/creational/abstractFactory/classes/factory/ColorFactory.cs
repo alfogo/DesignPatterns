@@ -1,7 +1,7 @@
-﻿using designPatterns.classes.colors;
-using designPatterns.classes.interfaces;
+﻿using designPatterns.patterns.creational.abstractFactory.classes.colors;
+using designPatterns.patterns.creational.abstractFactory.classes.interfaces;
 
-namespace designPatterns.classes.factory
+namespace designPatterns.patterns.creational.abstractFactory.classes.factory
 {
     public class ColorFactory : AbstractFactory
     {

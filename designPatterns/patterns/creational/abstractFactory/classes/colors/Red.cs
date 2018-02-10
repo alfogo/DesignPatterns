@@ -1,7 +1,7 @@
 ﻿using System;
-using designPatterns.classes.interfaces;
+using designPatterns.patterns.creational.abstractFactory.classes.interfaces;
 
-namespace designPatterns.classes.colors
+namespace designPatterns.patterns.creational.abstractFactory.classes.colors
 {
     public class Red : IColor
     {
