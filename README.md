@@ -1,2 +1,2 @@
   # Design Patterns
-Design patterns code samples with C#
+Design patterns code samples with C# v2
